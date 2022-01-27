@@ -432,7 +432,7 @@ margin-top: 20px;
 }
 
 /*Responsive for tablet*/
-@media(max-width: 988px){
+@media(max-width: 1115px){
 .toggle-button{
     display: flex;
 }
