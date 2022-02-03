@@ -663,6 +663,8 @@ display: none;
 .foot-sect-p div{
 margin: 0;
 }
-
+    .main-sect-buttons .get-button{
+    padding:18px;
+    }
 
 }
